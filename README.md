@@ -6,7 +6,6 @@
 - 🤔 &nbsp; Exploring new technologies and learning to developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at University of Kassel.
 - 💼 &nbsp; Doing integrated degree programme at Fraunhofer IEE Kassel.
-- 🌱 &nbsp; Learning more about Cloud Architecture and  Systems Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
